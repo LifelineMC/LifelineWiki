@@ -51,5 +51,3 @@
 [⚡ Бустер](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/booster.md)
 
 [👑 Персонал проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/admins.md)
-
-[💬 Партнёрская программа](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/partner.md)

@@ -8,10 +8,8 @@
 - Авто-тотем модификации (любого вида)
 - Модификации, выполняющие действия за игрока
 - ИИ, принтер и так далее
-- Чит-модификации (любого вида)
+- Чит-модификации и общепринятые чит-клиенты (любого вида)
 - AFKPeace
-- Aristois
-- Baritone
 - Bedrock Miner
 - Better PVP (все версии)
 - BetterClicker
@@ -20,18 +18,14 @@
 - CMDCam
 - FindMe
 - FreeCam
-- Impact
-- Inertia
 - Inventory Plus
 - InvMove
 - LavaClearView
 - Litematica (с применением Easy Place Mode)
 - SeedCracker, а также другие моды и программы, выполняющие функции этого мода
-- Sigma
 - Trajectory Preview
 - Tweakeroo
 - Wall-Jump
-- Wurst
 - X-ray модификации (любого вида)
 - Любые карты с отображением существ (в том числе игроков)
 
